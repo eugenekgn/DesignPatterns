@@ -1,0 +1,11 @@
+/Users/eugene/Projects/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp3.0/DesignPatterns.csprojAssemblyReference.cache
+/Users/eugene/Projects/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp3.0/DesignPatterns.AssemblyInfoInputs.cache
+/Users/eugene/Projects/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp3.0/DesignPatterns.AssemblyInfo.cs
+/Users/eugene/Projects/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp3.0/DesignPatterns
+/Users/eugene/Projects/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp3.0/DesignPatterns.deps.json
+/Users/eugene/Projects/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp3.0/DesignPatterns.runtimeconfig.json
+/Users/eugene/Projects/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp3.0/DesignPatterns.runtimeconfig.dev.json
+/Users/eugene/Projects/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp3.0/DesignPatterns.dll
+/Users/eugene/Projects/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp3.0/DesignPatterns.pdb
+/Users/eugene/Projects/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp3.0/DesignPatterns.dll
+/Users/eugene/Projects/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp3.0/DesignPatterns.pdb
